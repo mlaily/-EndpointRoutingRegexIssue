@@ -1,6 +1,6 @@
 
 // Comment this line to use legacy Mvc route definition instead of endpoint routing
-//#define ENDPOINT_ROUTING
+#define ENDPOINT_ROUTING
 
 using System;
 using System.Collections.Generic;
